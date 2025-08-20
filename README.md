@@ -1,16 +1,27 @@
-## Hi there 👋
+### 🖥️ Technical Skills
 
-<!--
-**redituser/redituser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
+* Java, Python, JavaScript, C#
 
-Here are some ideas to get you started:
+**Backend**
+* **Frameworks/Libraries:** Spring, Spring Boot, JPA, MyBatis
+* **API:** RESTful API
+* **Testing:** JUnit
+* **Web:** JSP / Servlet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend & App**
+* **Web:** HTML, CSS
+* **Frameworks/Libraries:** React, jQuery
+
+**Data & AI**
+* **ML/DL:** Machine Learning, Deep Learning, OpenCV, NLP
+* **LLM:** LLM (GPT API)
+* **Web Crawling:** Selenium, BeautifulSoup
+
+**Database**
+* MySQL, Oracle DB, SQL
+
+**Infra & Collaboration**
+* **Cloud:** AWS RDS, AWS S3
+* **Version Control:** Git, GitHub
+* **Collaboration:** Slack, Notion
