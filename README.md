@@ -26,38 +26,17 @@
 
 ## 🌟 Featured Projects
 
+<img src="[직접 만든 헤더 이미지 주소]">
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="[리포지토리 주소]">
-        <img src="[프로젝트 이미지 주소]" alt="프로젝트 이미지"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 실시간 스터디 매칭 플랫폼</h3>
-      <p>
-        프로젝트에 대한 핵심 설명(기획 배경, 목표 등)을 여기에 적습니다.
-      </p>
-      <details>
-          <summary><b>주요 기능 및 기여 (클릭하여 펼치기)</b></summary>
-          <ul>
-            <li>WebSocket 기반 실시간 채팅 기능 구현</li>
-            <li>Redis를 활용한 매칭 대기열 시스템 설계</li>
-            <li>Spring Security + JWT 인증/인가 처리</li>
-          </ul>
-      </details>
-      <hr>
-      <p>
-        <b>Techs:</b><br>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=WebSocket&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-      </p>
-      <p>
-        <b>Links:</b><br>
-        <a href="[GitHub 리포지토리 주소]"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-        <a href="[서비스 배포 주소]"><img src="https://img.shields.io/badge/Website-00B8FF?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td><b><code>개요</code></b> ∙ <code>2025.05</code> ~ <code>2025.08</code></td>
+    </tr>
+    <tr>
+      <td><b><code>Tech Stack</code></b> <br> <img src="..."/></td>
+    </tr>
+  </tbody>
 </table>
+
+<img src="[직접 만든 푸터 이미지 주소]">
