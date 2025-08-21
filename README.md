@@ -26,27 +26,38 @@
 
 ## 🌟 Featured Projects
 
-<table width="100%">
-    <tr align="center">
-        <td>
-            <a href="[리포지토리 주소]">
-                <img src="[프로젝트 이미지 경로]" width="300px">
-            </a>
-        </td>
-        <td>
-            <h3>프로젝트 제목 1</h3>
-            <p>이 프로젝트를 한 문장으로 설명합니다. 사용자의 어떤 문제를 해결하기 위해 만들었습니다.</p>
-            <p><strong>주요 기능:</strong> 회원가입, 게시판, 실시간 채팅 등</p>
-            <p><strong>내가 기여한 부분:</strong> RESTful API 설계 및 개발, JWT 기반 인증 구현 등</p>
-            <div>
-                <strong>Techs:</strong>
-                <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-                <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-                ...
-            </div>
-            <br/>
-            <a href="[리포지토리 주소]"><strong>[GitHub]</strong></a>
-            <a href="[배포 주소]"><strong>[Live Demo]</strong></a>
-        </td>
-    </tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="[리포지토리 주소]">
+        <img src="[프로젝트 이미지 주소]" alt="프로젝트 이미지"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 실시간 스터디 매칭 플랫폼</h3>
+      <p>
+        프로젝트에 대한 핵심 설명(기획 배경, 목표 등)을 여기에 적습니다.
+      </p>
+      <details>
+          <summary><b>주요 기능 및 기여 (클릭하여 펼치기)</b></summary>
+          <ul>
+            <li>WebSocket 기반 실시간 채팅 기능 구현</li>
+            <li>Redis를 활용한 매칭 대기열 시스템 설계</li>
+            <li>Spring Security + JWT 인증/인가 처리</li>
+          </ul>
+      </details>
+      <hr>
+      <p>
+        <b>Techs:</b><br>
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=WebSocket&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+      </p>
+      <p>
+        <b>Links:</b><br>
+        <a href="[GitHub 리포지토리 주소]"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        <a href="[서비스 배포 주소]"><img src="https://img.shields.io/badge/Website-00B8FF?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
 </table>
