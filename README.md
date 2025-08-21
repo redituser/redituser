@@ -26,17 +26,33 @@
 
 ## 🌟 Featured Projects
 
-<img src="[직접 만든 헤더 이미지 주소]">
-
 <table>
+  <thead>
+    <tr>
+      <th>Finday - 오픈뱅킹 웹 시뮬레이터</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td><b><code>개요</code></b> ∙ <code>2025.05</code> ~ <code>2025.08</code></td>
     </tr>
     <tr>
-      <td><b><code>Tech Stack</code></b> <br> <img src="..."/></td>
+      <td>Finday 서버 가상 KFTC 게이트웨이 은행 서버 간의 HTTP API로 연동하여 계좌/카드 조회, 이체, 결제, 거래내역을 시뮬레이션합니다. 로그인 및 기타 인증 과정에서, JWT와 얼굴인증(Flask/DeepFace) 2단계 검증을 도입했습니다.</td>
+    </tr>
+    <tr>
+      <td><b><code>Category</code></b> <br> <img src="https://img.shields.io/badge/Backend-333?style=flat-square"/> <img src="https://img.shields.io/badge/Frontend-333?style=flat-square"/> <img src="https://img.shields.io/badge/Flask(얼굴인증)-333?style=flat-square"/> <img src="https://img.shields.io/badge/Bank Server-333?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><b><code>주요 경험 및 해결과정</code></b></td>
+    </tr>
+    <tr>
+      <td>🎯 <b>단일 서버에서 오픈뱅킹 시뮬레이션 구성의 한계</b> <br> <b>해결</b> - Finday 서버와 가상 은행/KFTC 게이트웨이트 분리, API 계약 중심으로 통신하며 책임과 기능 명확화.</td>
+    </tr>
+    <tr>
+      <td>🎯 <b>이체 중 송금 실패 시, 입금 불일치 위험</b> <br> <b>해결</b> - 게이트웨이 서버에서 수동 트랜잭션 제어(롤백) 로직 구현 및 도중 실패 시 원장 보정(잠금/입금 불일치 방지).</td>
+    </tr>
+     <tr>
+      <td><b><code>Tech Stack</code></b> <br> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-A8775A?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/AWS S3, RDS-orange?style=flat-square&logo=amazonaws"/></td>
     </tr>
   </tbody>
 </table>
-
-<img src="[직접 만든 푸터 이미지 주소]">
